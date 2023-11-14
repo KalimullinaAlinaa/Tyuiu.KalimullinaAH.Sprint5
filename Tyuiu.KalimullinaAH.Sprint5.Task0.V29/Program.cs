@@ -18,7 +18,7 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task0.V29
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Класс File. Запись данных в текстовый файл                        *");
-            Console.WriteLine("* Задание #0                                                              *");
+            Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
             Console.WriteLine("* Выполнил: Калимуллина Алина Халимовна | ИИПб-23-1                       *");
             Console.WriteLine("***************************************************************************");
