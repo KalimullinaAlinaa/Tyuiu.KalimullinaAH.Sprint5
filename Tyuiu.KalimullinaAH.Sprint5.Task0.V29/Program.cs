@@ -33,7 +33,7 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task0.V29
 
             int x = 3;
 
-            Console.WriteLine("X = " + x);
+            Console.WriteLine("x = " + x);
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
