@@ -20,7 +20,7 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task1.V15
             Console.WriteLine("* Вариант #15                                                             *");
             Console.WriteLine("* Выполнил: Калимуллина Алина Халимовна | ИИПб-23-1                       *");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Дана функция, f(x) = cos(x) / (x-0.4) + sin(x) * 8x + 2 (произвести     *");
+            Console.WriteLine("* Дана функция, f(x) = cos(x) / (x-0,4) + sin(x) * 8x + 2 (произвести     *");
             Console.WriteLine("* табулирование) f(x) на заданном диапозоне [-5;5] с шагом 1. Произвести  *");
             Console.WriteLine("* проверку деления на ноль. При делении на ноль вернуть значение 0.       *");
             Console.WriteLine("* Результат сохранить в текстовый файл OutPutFileTask1.txt и вывести на   *");
