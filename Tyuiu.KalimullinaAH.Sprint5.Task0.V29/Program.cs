@@ -23,7 +23,7 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task0.V29
             Console.WriteLine("* Выполнил: Калимуллина Алина Халимовна | ИИПб-23-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Дано выражение f(x) = 6.1 * x^3 + 0.23 * x^2 + 1.04х , вычислить        *");
+            Console.WriteLine("* Дано выражение f(x) = 6,1 * x^3 + 0.23 * x^2 + 1,04х , вычислить        *");
             Console.WriteLine("* его значение при x = 3, результат сохранить в текстовый файл            *");
             Console.WriteLine("* OutPutFileTask0.txt и вывести на консоль. Округлить до трёх знаков      *");
             Console.WriteLine("* после запятой.                                                          *");
