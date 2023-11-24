@@ -28,7 +28,7 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task4.V8
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            string path= $@"{Directory.GetCurrentDirectory()}\DataSprint5\InPutDataFileTask4V8.txt";
+            string path= @"C:\DataSprint5\InPutDataFileTask4V8.txt";
             Console.WriteLine("Данные находятся в файле:" + path);
 
             Console.WriteLine("***************************************************************************");
