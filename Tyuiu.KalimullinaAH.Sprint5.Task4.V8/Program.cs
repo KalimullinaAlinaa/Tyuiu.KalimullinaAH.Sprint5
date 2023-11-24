@@ -19,11 +19,11 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task4.V8
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #8                                                              *");
             Console.WriteLine("* Выполнилa: Калимуллина Алина Халимовна | ИИПб-23-1                      *");
-            Console.WriteLine("* Дан файл С:DataSprint5 InPutDataFileTask4V0.txt                        *");
+            Console.WriteLine("* Дан файл С:DataSprint5 InPutDataFileTask4V0.txt                         *");
             Console.WriteLine("* в котором есть вещественное значение. Прочитать значение из файла и     *");
-            Console.WriteLine("* подставить вместо Х в формуле y = x^2/ sin(x) + 3 ,Вычислить значение   *");
+            Console.WriteLine("* подставить вместо Х в формуле y = x^2/ sin(x) + 3, Вычислить значение   *");
             Console.WriteLine("* по формуле и вернуть полученный результат на консоль.                   *");
-            Console.WriteLine("* Округлить до трёх знаков после запятой.                                *");
+            Console.WriteLine("* Округлить до трех знаков после запятой.                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
@@ -34,8 +34,8 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task4.V8
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            double res = ds.LoadFromDataFile(path);
-            Console.WriteLine(res);
+            double ress = ds.LoadFromDataFile(path);
+            Console.WriteLine(ress);
             Console.ReadKey();
 
 

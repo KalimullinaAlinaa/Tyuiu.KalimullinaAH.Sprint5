@@ -12,8 +12,9 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task4.V8.Lib
         public double LoadFromDataFile(string path)
         {
             string strX = File.ReadAllText(path);
-            double res = Math.Round((Math.Pow(Convert.ToDouble(strX), 2)) / (Math.Sin(Convert.ToDouble(strX)))+3,3);
-                return res;
+            double ress = Math.Round((Math.Pow(Convert.ToDouble(strX), 2)) / (Math.Sin(Convert.ToDouble(strX)))+3,3);
+
+            return ress;
         }
     }
 }

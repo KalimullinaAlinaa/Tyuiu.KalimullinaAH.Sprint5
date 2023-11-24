@@ -14,8 +14,9 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task4.V8.Test
 
             FileInfo fileInfo = new FileInfo(path);
             bool fileExsist = fileInfo.Exists;
-            bool wait = true;
-            Assert.AreEqual(wait, fileExsist);
+            bool waitt = true;
+
+            Assert.AreEqual(waitt, fileExsist);
         }
     }
 }
