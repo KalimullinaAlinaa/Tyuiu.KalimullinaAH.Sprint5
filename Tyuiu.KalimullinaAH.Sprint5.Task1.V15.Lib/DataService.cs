@@ -27,7 +27,7 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task1.V15.Lib
 
             for (int x = startValue; x <= stopValue; x++)
             {
-                y = Math.Round((Math.Cos(x) / (x - 0.4)) + Math.Sin(x) * 8 * x + 2, 2);
+                y = Math.Round((Math.Cos(x) / (x - 0.4)) + Math.Sin(x) * 8 * x + 2,2);
 
                 if (double.IsInfinity(y) || double.IsNaN(y))
                 {
