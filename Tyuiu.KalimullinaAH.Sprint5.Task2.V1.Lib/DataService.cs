@@ -26,7 +26,7 @@ namespace Tyuiu.KalimullinaAH.Sprint5.Task2.V1.Lib
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    if (matrix[i, j] % 2 != 0)
+                    if (matrix[i,j] % 2 != 0)
                     {
                         matrix[i, j] = 0;
                     }
